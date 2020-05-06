@@ -5,7 +5,7 @@
       "name": "Ring Chair",
       "likes": 82,
       "added": false,
-      "ar": "models/toy_car.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "colorful_studio_2k.hdr",
       "items": [
@@ -36,7 +36,7 @@
       "name": "Andromeda Sideboard",
       "likes": 43,
       "added": false,
-      "ar": "models/Mens_Oxford_Shoes.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "grigio.hdr",
       "items": [
@@ -67,7 +67,7 @@
       "name": "Filicudi Bed",
       "likes": 52,
       "added": false,
-      "ar": "models/leather-shoes.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "photo_studio_01_2k.hdr",
       "items": [
@@ -98,7 +98,7 @@
       "name": "Time Sofa",
       "likes": 146,
       "added": false,
-      "ar": "models/leather-shoes.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "colorful_studio_2k.hdr",
       "items": [
@@ -129,7 +129,7 @@
       "name": "Vittoria Chair",
       "likes": 372,
       "added": false,
-      "ar": "models/leather-shoes.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "leadenhall_market_2k.hdr",
       "items": [
