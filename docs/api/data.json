@@ -5,7 +5,7 @@
       "name": "Ring Chair",
       "likes": 82,
       "added": false,
-      "ar": "models/leather-shoes.usdz",
+      "ar": "models/toy_car.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "colorful_studio_2k.hdr",
       "items": [
@@ -36,7 +36,7 @@
       "name": "Andromeda Sideboard",
       "likes": 43,
       "added": false,
-      "ar": "models/leather-shoes.usdz",
+      "ar": "models/Mens_Oxford_Shoes.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "grigio.hdr",
       "items": [
