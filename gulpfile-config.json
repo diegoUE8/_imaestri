@@ -80,7 +80,7 @@
   "tfs": false,
   "server": {
     "root": "./docs",
-    "path": "/imaestri/",
+    "path": "/_imaestri/",
     "host": "0.0.0.0",
     "port": 41567,
     "log": false

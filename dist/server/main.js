@@ -1,5 +1,5 @@
 /**
- * @license imaestri v1.0.0
+ * @license _imaestri v1.0.0
  * (c) 2020 Luca Zampetti <lzampetti@gmail.com>
  * License: MIT
  */
@@ -29,10 +29,10 @@ var bodyParser = require('body-parser');
 var path = require('path');
 
 var _require = require('agora-access-token'),
-    RtcTokenBuilder = _require.RtcTokenBuilder,
-    RtmTokenBuilder = _require.RtmTokenBuilder,
-    RtcRole = _require.RtcRole,
-    RtmRole = _require.RtmRole;
+  RtcTokenBuilder = _require.RtcTokenBuilder,
+  RtmTokenBuilder = _require.RtmTokenBuilder,
+  RtcRole = _require.RtcRole,
+  RtmRole = _require.RtmRole;
 var PORT = process.env.PORT || environment.port;
 console.log(environment);
 var app = express();

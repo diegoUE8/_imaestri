@@ -1,12 +1,12 @@
 {
   "author": "Luca Zampetti <lzampetti@gmail.com>",
-  "name": "imaestri",
-  "description": "imaestri",
+  "name": "_imaestri",
+  "description": "_imaestri",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/actarian/imaestri.git"
+    "url": "git://github.com/actarian/_imaestri.git"
   },
   "engines": {
     "node": "10.x"
