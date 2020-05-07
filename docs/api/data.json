@@ -5,7 +5,7 @@
       "name": "Ring Chair",
       "likes": 82,
       "added": false,
-      "ar": "models/giovannetti.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "colorful_studio_2k.hdr",
       "items": [
@@ -67,7 +67,7 @@
       "name": "Filicudi Bed",
       "likes": 52,
       "added": false,
-      "ar": "models/barel.usdz",
+      "ar": "models/chair_swan.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "photo_studio_01_2k.hdr",
       "items": [
